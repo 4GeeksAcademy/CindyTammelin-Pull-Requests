@@ -1,0 +1,39 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+  name: "Cindy Anneli Tammelin Martinez"
+  title: "Estudiante de Desarrollo Web"
+  email: "cindy.tammelin@gmail.com"
+  phone: "+50488999636"
+  website: "https://github.com/CindyTammelin"
+  linkedin: "Cindy Tammelin"
+  github: "CindyTammelin"
+  twitter: "Cindy Tammelin"
+  image: "imagen.jpg"
+
+education:
+  - degree: "Full Stack Developer"
+    institution: "4Geeks Academy"
+    year: "2025"
+    description: "Desarrollo web full stack"
+
+experiences:
+  - role: "IT Support/Oficial SR. planificacion operativa de TI"
+    company: "Grupo Ficohsa"
+    year: "2022-actualidad"
+    description: "Adminsitracion de cuentas tecnologicas y licenciamientos"
+
+projects:
+  - name: "Mi Primer Proyecto"
+    description: "Curriculum de 4geeks"
+    url: "https://github.com/CindyTammelin"
+    year: "2025"
+
+skills:
+  - name: "HTML"
+    percentage: 80
+  - name: "CSS"
+    percentage: 75
+  - name: "JavaScript"
+    percentage: 70
